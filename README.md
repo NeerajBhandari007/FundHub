@@ -1,6 +1,6 @@
 # FundHub - Blockchain-Based Crowdfunding Application
 
-![FundHub Logo]([link_to_logo_image](https://drive.google.com/file/d/1droWqDf4pCAkAr7n3tOY3RNrjds6sJ-w/view?usp=sharing))
+![FundHub Logo](https://drive.google.com/file/d/1droWqDf4pCAkAr7n3tOY3RNrjds6sJ-w/view?usp=sharing)
 
 ## Introduction
 
