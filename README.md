@@ -1,0 +1,82 @@
+# FundHub - Blockchain-Based Crowdfunding Application
+
+![FundHub Logo]([link_to_logo_image](https://drive.google.com/file/d/1droWqDf4pCAkAr7n3tOY3RNrjds6sJ-w/view?usp=sharing))
+
+## Introduction
+
+FundHub is a decentralized crowdfunding application that utilizes blockchain technology to facilitate transparent and secure fundraising campaigns. The platform allows users to create, donate to, and manage crowdfunding campaigns using the Ethereum blockchain.
+
+This repository contains the source code for the FundHub application, consisting of a React-based front end built with Vite and a backend implemented with Solidity smart contracts.
+
+## Features
+
+- **Campaign Creation:** Users can create fundraising campaigns with details such as title, description, funding goal, and duration.
+- **Metamask Integration:** Integration with Metamask allows seamless interaction with the Ethereum blockchain for donations and campaign management.
+- **Blockchain-Based:** Utilizes the Ethereum blockchain to ensure transparency, immutability, and security of fundraising campaigns.
+- **React Front End:** The front end is built using React, providing a responsive and user-friendly interface for both campaign creators and donors.
+
+## Technologies Used
+
+- **Front End:** React, Vite
+- **Back End:** Solidity (Smart Contracts)
+- **Blockchain:** Ethereum
+- **Wallet Integration:** Metamask
+
+## Installation
+
+### Prerequisites
+
+- Node.js
+- Metamask extension for your browser
+
+### Steps
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/NeerajBhandari007/fundhub.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd fundhub
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Access the application in your browser at `http://localhost:3000`.
+
+## Usage
+
+1. Connect Metamask to your Ethereum account.
+2. Create a campaign or donate to existing campaigns.
+3. Interact with the platform to manage campaigns or contribute to fundraising goals.
+
+## Contributing
+
+We welcome contributions from the community! To contribute to FundHub, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes and commit them (`git commit -am 'Add your feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Create a pull request explaining your changes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- Credits or acknowledgments to libraries, frameworks, or individuals whose code or work has been used in this project.
