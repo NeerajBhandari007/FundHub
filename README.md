@@ -1,7 +1,5 @@
 # FundHub - Blockchain-Based Crowdfunding Application
 
-![FundHub Logo](https://drive.google.com/file/d/1droWqDf4pCAkAr7n3tOY3RNrjds6sJ-w/view?usp=sharing)
-
 ## Introduction
 
 FundHub is a decentralized crowdfunding application that utilizes blockchain technology to facilitate transparent and secure fundraising campaigns. The platform allows users to create, donate to, and manage crowdfunding campaigns using the Ethereum blockchain.
